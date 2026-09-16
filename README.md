@@ -1,3 +1,5 @@
 # underp01nt 🤘
 
-- ### I am currently working on: [AutoNet 🌐](https://github.com/underp01nt/AutoNet)
+Enjoyer of Networking, Cloud, and AI. 
+
+- My most recent project: **[AutoNet 🌐](https://github.com/underp01nt/AutoNet)**
